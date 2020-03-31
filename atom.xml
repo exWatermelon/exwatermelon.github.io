@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://exwatermelon.github.io</id>
+    <title>EXW|芜湖起飞</title>
+    <updated>2020-03-31T08:35:26.353Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://exwatermelon.github.io"/>
+    <link rel="self" href="https://exwatermelon.github.io/atom.xml"/>
+    <subtitle>早起的虫儿被鸟吃，早起的鸟儿被枪打。</subtitle>
+    <logo>https://exwatermelon.github.io/images/avatar.png</logo>
+    <icon>https://exwatermelon.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, EXW|芜湖起飞</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://exwatermelon.github.io/post/hello-gridea/</id>
+        <link href="https://exwatermelon.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
